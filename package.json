@@ -1,6 +1,6 @@
 {
   "name": "chi-matches",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if a DOM element matches a CSS selector",
   "main": "index.js",
   "scripts": {
