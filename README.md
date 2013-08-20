@@ -1,5 +1,8 @@
 # chi-matches
 
+[![Build Status](https://travis-ci.org/conradz/chi-matches.png?branch=master)](https://travis-ci.org/conradz/chi-matches)
+[![Dependency Status](https://gemnasium.com/conradz/chi-matches.png)](https://gemnasium.com/conradz/chi-matches)
+
 Check if a DOM element matches a CSS selector.
 
 A cross-browser wrapper for the
