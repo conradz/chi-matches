@@ -1,0 +1,30 @@
+{
+  "name": "chi-matches",
+  "version": "0.0.0",
+  "description": "Check if a DOM element matches a CSS selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "chi-build test",
+    "serve": "chi-build serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conradz/chi-matches.git"
+  },
+  "keywords": [
+    "browser",
+    "browserify",
+    "dom",
+    "css",
+    "matches"
+  ],
+  "author": "Conrad Zimmerman <me@conradz.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/conradz/chi-matches/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4",
+    "chi-build": "0.0.1"
+  }
+}
