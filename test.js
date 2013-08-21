@@ -1,5 +1,6 @@
 var test = require('tape'),
-    matches = require('./');
+    matches = require('./'),
+    document = window.document;
 
 test('matches element selector', function(t) {
     var div = document.createElement('div');

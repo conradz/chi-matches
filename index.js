@@ -1,11 +1,13 @@
 // Get the right method, including vendor prefixes
-var proto = Element.prototype,
+var proto = window.Element.prototype,
     method = (
         proto.matches ||
         proto.matchesSelector ||
         proto.mozMatchesSelector ||
         proto.msMatchesSelector ||
         proto.webkitMatchesSelector);
+
+var document = window.document;
 
 function matches(element, selector) {
     return method.call(element, selector);
