@@ -24,3 +24,10 @@ var div = document.createElement('div');
 matches(div, 'div'); // true
 matches(div, 'p'); // false
 ```
+
+## Reference
+
+### `matches(el, selector)`
+
+Returns true if `el` matches the CSS selector specified by `selector`. Otherwise
+returns false.
