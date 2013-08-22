@@ -2,7 +2,7 @@
 
 [![NPM](https://nodei.co/npm/chi-matches.png?compact=true)](https://nodei.co/npm/chi-matches/)
 
-[![Build Status](https://travis-ci.org/conradz/chi-matches.png?branch=master)](https://travis-ci.org/conradz/chi-matches)
+[![Build Status](https://drone.io/github.com/conradz/chi-matches/status.png)](https://drone.io/github.com/conradz/chi-matches/latest)
 [![Dependency Status](https://gemnasium.com/conradz/chi-matches.png)](https://gemnasium.com/conradz/chi-matches)
 
 Check if a DOM element matches a CSS selector.
