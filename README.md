@@ -1,5 +1,7 @@
 # chi-matches
 
+[![NPM](https://nodei.co/npm/chi-matches.png?compact=true)](https://nodei.co/npm/chi-matches/)
+
 [![Build Status](https://travis-ci.org/conradz/chi-matches.png?branch=master)](https://travis-ci.org/conradz/chi-matches)
 [![Dependency Status](https://gemnasium.com/conradz/chi-matches.png)](https://gemnasium.com/conradz/chi-matches)
 
