@@ -4,9 +4,9 @@
   "description": "Check if a DOM element matches a CSS selector",
   "main": "index.js",
   "scripts": {
-    "test": "chi-build test",
-    "serve": "chi-build serve",
-    "lint": "chi-build lint"
+    "test": "hut-build test",
+    "serve": "hut-build serve",
+    "lint": "hut-build lint"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
     "url": "https://github.com/conradz/chi-matches/issues"
   },
   "devDependencies": {
-    "tape": "~1.0.4",
-    "chi-build": "0.0.4"
+    "tape": "~1.1.1",
+    "hut-build": "~0.1.4"
   }
 }
