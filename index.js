@@ -1,3 +1,5 @@
+'use strict';
+
 // Get the right method, including vendor prefixes
 var proto = window.Element.prototype,
     method = (
