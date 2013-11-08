@@ -26,3 +26,13 @@ test('matches ID selector', function(t) {
     t.notOk(matches(div, '#foo'));
     t.end();
 });
+
+test('matches child selector', function(t) {
+    var parent = document.createElement('div'),
+        child = document.createElement('div');
+    parent.className = 'parent';
+    child.className = 'child';
+    parent.appendChild(child);
+    t.ok(matches(child, '.parent .child'));
+    t.end();
+});
