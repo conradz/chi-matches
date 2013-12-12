@@ -5,7 +5,7 @@
 [![Build Status](https://drone.io/github.com/conradz/chi-matches/status.png)](https://drone.io/github.com/conradz/chi-matches/latest)
 [![Dependency Status](https://gemnasium.com/conradz/chi-matches.png)](https://gemnasium.com/conradz/chi-matches)
 
-[![Selenium Test Status](https://saucelabs.com/browser-matrix/chi-matches.svg)](https://saucelabs.com/u/chi-matches)
+[![Selenium Test Status](https://saucelabs.com/browser-matrix/chi-matches-test.svg)](https://saucelabs.com/u/chi-matches-test)
 
 Check if a DOM element matches a CSS selector.
 
